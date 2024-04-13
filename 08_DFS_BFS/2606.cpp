@@ -3,6 +3,7 @@
 #include <algorithm>
 #include <vector>
 
+
 using namespace std;
 
 void bfs(int n, vector <vector<int>>& v, vector <bool>& check) {

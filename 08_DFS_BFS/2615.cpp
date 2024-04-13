@@ -3,6 +3,7 @@
 #include <algorithm>
 #include <vector>
 
+
 using namespace std;
 const int MAX = 19;
 
